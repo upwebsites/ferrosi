@@ -105,10 +105,30 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-6 relative z-10">
         <div className="max-w-7xl mx-auto">
-          {/* Super Bold Typography */}
-          <h1 className="font-display font-bold text-[12vw] leading-[0.8] tracking-tighter text-dark-gray mb-8 uppercase break-words">
-            Soluzioni
-            <span className="block text-primary ml-[10vw]">Concrete</span>
+          {/* Radical Staggered Heading */}
+          <h1 className="font-unbounded font-black text-6xl md:text-8xl lg:text-[9rem] leading-[0.85] tracking-tighter text-dark-gray mb-12 uppercase select-none">
+            <div className="flex flex-wrap gap-x-[0.05em]">
+              {"Soluzioni".split('').map((char, i) => (
+                <span
+                  key={i}
+                  className="inline-block animate-creative-reveal opacity-0"
+                  style={{ animationDelay: `${i * 0.04}s` }}
+                >
+                  {char}
+                </span>
+              ))}
+            </div>
+            <div className="flex flex-wrap gap-x-[0.05em] mt-2 md:mt-4">
+              {"Concrete".split('').map((char, i) => (
+                <span
+                  key={i}
+                  className="inline-block animate-creative-reveal opacity-0 bg-clip-text text-transparent bg-gradient-to-r from-primary via-orange-400 to-primary-dark"
+                  style={{ animationDelay: `${(9 + i) * 0.04 + 0.2}s` }}
+                >
+                  {char}
+                </span>
+              ))}
+            </div>
           </h1>
 
           <div className="grid md:grid-cols-2 gap-12 items-end mt-12">
