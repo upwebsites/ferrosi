@@ -1173,6 +1173,58 @@ const produits_validi = (list: any[]) => {
   return list.filter(p => p && p.nome && p.prezzo > 0);
 };
 
+const MaintenancePage = () => {
+  return (
+    <div className="min-h-screen bg-[#0a0a0b] flex flex-col items-center justify-center p-6 relative overflow-hidden">
+      {/* Background Abstract Effects */}
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[80vw] h-[80vw] bg-primary/10 rounded-full blur-[120px] pointer-events-none" />
+      <div className="absolute top-0 right-0 w-[40vw] h-[40vw] bg-blue-600/5 rounded-full blur-[100px] pointer-events-none" />
+
+      <div className="relative z-10 flex flex-col items-center text-center max-w-2xl mx-auto">
+        <div className="mb-12 animate-float">
+          <div className="flex items-center space-x-4 mb-4 justify-center">
+            <div className="text-5xl md:text-7xl tracking-tighter">
+              <span className="font-display font-black text-white">Ditta</span>
+              <span className="font-sans font-medium text-primary ml-1">Ferrosi</span>
+            </div>
+          </div>
+          <div className="h-1 w-24 bg-primary mx-auto rounded-full animate-glow" />
+        </div>
+
+        <h1 className="font-display font-bold text-4xl md:text-6xl text-white mb-6 uppercase tracking-tighter leading-none">
+          Lavori in <br />
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-orange-400">Corso</span>
+        </h1>
+
+        <p className="font-sans text-gray-400 text-lg md:text-xl leading-relaxed mb-12">
+          Stiamo aggiornando il nostro spazio digitale per offrirti un'esperienza ancora migliore.
+          Torniamo online a breve con grandi novità.
+        </p>
+
+        <div className="flex flex-col items-center gap-6">
+          <div className="flex items-center space-x-3 text-gray-500 font-medium uppercase tracking-[0.2em] text-xs">
+            <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
+            <span>Sistema in Aggiornamento</span>
+          </div>
+
+          <div className="h-px w-40 bg-gradient-to-r from-transparent via-gray-800 to-transparent" />
+
+          <div className="flex flex-col gap-2">
+            <p className="text-gray-500 text-sm">Hai urgenza? Contattaci subito:</p>
+            <a href="mailto:info@dittaferrosi.it" className="text-white font-bold hover:text-primary transition-colors text-lg">
+              info@dittaferrosi.it
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="absolute bottom-12 left-1/2 -translate-x-1/2 text-gray-700 text-[10px] font-bold uppercase tracking-[0.3em]">
+        © {new Date().getFullYear()} Ditta Ferrosi • Excellence in Operations
+      </div>
+    </div>
+  );
+};
+
 const EcommerceUfficioPage = () => {
   const [prodottiUfficio, setProdottiUfficio] = useState<any[]>([]);
 
@@ -1247,6 +1299,13 @@ const App = () => {
   const [showQuoteRequest, setShowQuoteRequest] = useState(false);
   const [showEcommerce, setShowEcommerce] = useState(false);
   const [page, setPage] = useState<'home' | 'ecommerce' | 'ecommerce-ufficio'>('home');
+
+  // Maintenance Mode Toggle - Set to true to enable
+  const isMaintenanceMode = true;
+
+  if (isMaintenanceMode) {
+    return <MaintenancePage />;
+  }
 
   const handleShowQuoteRequest = () => {
     setShowQuoteRequest(true);
