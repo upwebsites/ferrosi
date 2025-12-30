@@ -1,0 +1,746 @@
+[
+    {
+        "nome": "Divanetto in ecopelle",
+        "descrizione": "Divanetto elegante in ecopelle per ambienti moderni",
+        "prezzo": "870,00 €",
+        "immagine": "divanetto_in_ecopelle"
+    },
+    {
+        "nome": "Tavolinetto basso",
+        "descrizione": "Tavolinetto basso per soggiorno e ambienti relax",
+        "prezzo": "370,00 €",
+        "immagine": "tavolinetto_basso"
+    },
+    {
+        "nome": "Sedia in plastica dura",
+        "descrizione": "Sedia resistente in plastica dura per esterni",
+        "prezzo": "60,00 €",
+        "immagine": "sedia_in_plastica_dura"
+    },
+    {
+        "nome": "Tavolo con piede unico",
+        "descrizione": "Tavolo moderno con design a piede unico",
+        "prezzo": "290,00 €",
+        "immagine": "tavolo_con_piede_unico"
+    },
+    {
+        "nome": "Retro banco bar 4x6 metri",
+        "descrizione": "Retro banco bar professionale 4x6 metri",
+        "prezzo": "3.900,00 €",
+        "immagine": "retro_banco_bar_4x6_metri"
+    },
+    {
+        "nome": "Friggitrice a 2 vasche gas",
+        "descrizione": "70 x 80 x 85 17+17 LT",
+        "prezzo": "3.500,00 €",
+        "immagine": "friggitrice_a_2_vasche_gas_70_x_80_x_85_17+17_lt"
+    },
+    {
+        "nome": "Fry top gas liscio rigato",
+        "descrizione": "70 x 80 x85",
+        "prezzo": "3.300,00 €",
+        "immagine": "fry_top_gas_liscio_rigato_70_x_80_x85"
+    },
+    {
+        "nome": "Cassettiera neutra 3 cassetti",
+        "descrizione": "40 x 70 x 85 con alzatina",
+        "prezzo": "800,00 €",
+        "immagine": "cassettiera_neutra_3_cassetti_40_x_70_x_85_con_alzatina"
+    },
+    {
+        "nome": "Cuocipasta gas",
+        "descrizione": "80 x 70 x 85 incluso 3 cesti normali + due cesti inox",
+        "prezzo": "5.800,00 €",
+        "immagine": "cuocipasta_gas_80_x_70_x_85_incluso_3_cesti_normali_+_due_cesti_inox"
+    },
+    {
+        "nome": "Cucina gas 6 fuochi forno",
+        "descrizione": "120 x 70 x 85",
+        "prezzo": "5.400,00 €",
+        "immagine": "cucina_gas_6_fuochi_forno_120_x_70_x_85"
+    },
+    {
+        "nome": "Abbattitore temperatura",
+        "descrizione": "75 x 70 x 85 5 teglie",
+        "prezzo": "5.800,00 €",
+        "immagine": "abbattitore_temperatura_75_x_70_x_85_5_teglie"
+    },
+    {
+        "nome": "Tavolo neutro aperto con ripiano",
+        "descrizione": "40 x 70 x 85 a 5 teglie",
+        "prezzo": "300,00 €",
+        "immagine": "tavolo_neutro_aperto_con_ripiano_40_x_70_x_85_a_5_teglie"
+    },
+    {
+        "nome": "Tavolo inox per inserimento abbattitore",
+        "descrizione": "100 x 70 x 85",
+        "prezzo": "300,00 €",
+        "immagine": "tavolo_inox_per_inserimento_abbattitore_100_x_70_x_85"
+    },
+    {
+        "nome": "Forno elettrico a 5 teglie autopulente",
+        "descrizione": "con sonde al cuore in dotazione",
+        "prezzo": "6.850,00 €",
+        "immagine": "forno_elettrico_a_5_teglie_autopulente_con_sonde_al_cuore_in_dotazione"
+    },
+    {
+        "nome": "Cappa sopraforno Alcapone",
+        "descrizione": "a filtri interni",
+        "prezzo": "1.980,00 €",
+        "immagine": "cappa_sopraforno_alcapone_a_filtri_interni"
+    },
+    {
+        "nome": "Fontana a leva normale",
+        "descrizione": "",
+        "prezzo": "200,00 €",
+        "immagine": "fontana_a_leva_normale"
+    },
+    {
+        "nome": "Lavello a 2 vasche con gocciolatoio aperto e ripiano",
+        "descrizione": "",
+        "prezzo": "820,00 €",
+        "immagine": "lavello_a_2_vasche_con_gocciolatoio_aperto_e_ripiano"
+    },
+    {
+        "nome": "Base frigo a 3 porte completa di motore a bordo e alzatina",
+        "descrizione": "",
+        "prezzo": "1.600,00 €",
+        "immagine": "base_frigo_a_3_porte_completa_di_motore_a_bordo_e_alzatina"
+    },
+    {
+        "nome": "Base per congelatore a 3 porte con alzatina in dotazione",
+        "descrizione": "",
+        "prezzo": "1.900,00 €",
+        "immagine": "base_per_congelatore_a_3_porte_con_alzatina_in_dotazione"
+    },
+    {
+        "nome": "Tavolo inox aperto con ripiano ed alzatina",
+        "descrizione": "",
+        "prezzo": "400,00 €",
+        "immagine": "tavolo_inox_aperto_con_ripiano_ed_alzatina"
+    },
+    {
+        "nome": "Lampade calde colore luce rossa",
+        "descrizione": "",
+        "prezzo": "200,00 €",
+        "immagine": "lampade_calde_colore_luce_rossa"
+    },
+    {
+        "nome": "Microonde nero",
+        "descrizione": "31 LT",
+        "prezzo": "350,00 €",
+        "immagine": "microonde_nero_31_lt"
+    },
+    {
+        "nome": "Cappottina P100",
+        "descrizione": "70 x 75 x 180",
+        "prezzo": "4.600,00 €",
+        "immagine": "cappottina_p100_70_x_75_x_180"
+    },
+    {
+        "nome": "Lavello a doppia vasca completo di gocciolatoio a sbalzo aperto",
+        "descrizione": "160 x 70 x 85",
+        "prezzo": "1.150,00 €",
+        "immagine": "lavello_a_doppia_vasca_completo_di_gocciolatoio_a_sbalzo_aperto_160_x_70_x_85"
+    },
+    {
+        "nome": "Tavolo inox con foro sbarazzo aperto",
+        "descrizione": "70 x 70 x 85",
+        "prezzo": "600,00 €",
+        "immagine": "tavolo_inox_con_foro_sbarazzo_aperto_70_x_70_x_85"
+    },
+    {
+        "nome": "Doccetta alta SAMMIC",
+        "descrizione": "",
+        "prezzo": "400,00 €",
+        "immagine": "doccetta_alta_sammic"
+    },
+    {
+        "nome": "Tavolo inox aperto con ripiano 150 x 70 x 85 no alzatina",
+        "descrizione": "",
+        "prezzo": "400,00 €",
+        "immagine": "tavolo_inox_aperto_con_ripiano_150_x_70_x_85_no_alzatina"
+    },
+    {
+        "nome": "Armadio frigo a 2 porte 1.400 lt",
+        "descrizione": "80 x 140 x 210",
+        "prezzo": "1.950,00 €",
+        "immagine": "armadio_frigo_a_2_porte_1_400_lt_80_x_140_x_210"
+    },
+    {
+        "nome": "Vetrina bibita 1 porta colore nero",
+        "descrizione": "60 x 60 x 185",
+        "prezzo": "1.100,00 €",
+        "immagine": "vetrina_bibita_1_porta_colore_nero_60_x_60_x_185"
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "1;bar;Vetrina refrigerata da banco 55 lt;200",
+        "null": [
+            "00 €;vetrina_refrigerata_da_banco_55_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "2;bar;Vetrina riscaldata da banco 120 cm;756",
+        "null": [
+            "00 €;vetrina_riscaldata_da_banco_120_cm"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "3;bar;Vetrina riscaldata da banco 70 cm;550",
+        "null": [
+            "00 €;vetrina_riscaldata_da_banco_70_cm"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "4;bar;Granitore elettronico combo 5",
+        "null": [
+            "5 lt;1.350",
+            "00 €;granitore_elettronico_combo_5",
+            "5_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "5;bar;Granitore triplo 12 lt;2.200",
+        "null": [
+            "00 €;granitore_triplo_12_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "6;bar;Granitore 2 lt per sorbetto e creme fredde;700",
+        "null": [
+            "00 €;granitore_2_lt_per_sorbetto_e_creme_fredde"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "7;bar;Granitore 6 lt;900",
+        "null": [
+            "00 €;granitore_6_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "8;bar;Granitore a vasca 3 lt;500",
+        "null": [
+            "00 €;granitore_a_vasca_3_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "9;bar;Forno pizza elettrico 1 camera;475",
+        "null": [
+            "00 €;forno_pizza_elettrico_1_camera"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "10;bar;Macchina per gelato pastorizzatore;1.000",
+        "null": [
+            "00 €;macchina_per_gelato_pastorizzatore"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "11;bar;Forno per pane pizza 1 camera;465",
+        "null": [
+            "00 €;forno_per_pane_pizza_1_camera"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "12;bar;Forno a convenzione manuale 4 teglie;465",
+        "null": [
+            "00 €;forno_a_convenzione_manuale_4_teglie"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "13;bar;Forno a convenzione manuale 3 teglie;390",
+        "null": [
+            "00 €;forno_a_convenzione_manuale_3_teglie"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "14;bar;Vetrina orizzontale gelateria 6 gusti;1.900",
+        "null": [
+            "00 €;vetrina_orizzontale_gelateria_6_gusti"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "15;bar;Vetrina orizzontale gelateria 8 gusti;2.500",
+        "null": [
+            "00 €;vetrina_orizzontale_gelateria_8_gusti"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "16;bar;Banco espositore per gelato 16 gusti;6.500",
+        "null": [
+            "00 €;banco_espositore_per_gelato_16_gusti"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "17;bar;Banco espositore per gelato 18 gusti;6.800",
+        "null": [
+            "00 €;banco_espositore_per_gelato_18_gusti"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "18;bar;Granitore elettronico combo 8 lt;1.200",
+        "null": [
+            "00 €;granitore_elettronico_combo_8_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "19;bar;Granitore elettronico 8 lt;900",
+        "null": [
+            "00 €;granitore_elettronico_8_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "20;bar;Granitore elettronico 5",
+        "null": [
+            "5 lt;700",
+            "00 €;granitore_elettronico_5",
+            "5_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "21;bar;Piastra schiaccia panini in ghisa 2 braccia;450",
+        "null": [
+            "00 €;piastra_schiaccia_panini_in_ghisa_2_braccia"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "22;bar;Piastra panini professionale singola in ghisa;139",
+        "null": [
+            "00 €;piastra_panini_professionale_singola_in_ghisa"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "23;bar;Estrattore automatico di succo;600",
+        "null": [
+            "00 €;estrattore_automatico_di_succo"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "24;bar;Frullatore ad immersione 15lt;160",
+        "null": [
+            "00 €;frullatore_ad_immersione_15lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "25;bar;Vetrina calda con carrello;599",
+        "null": [
+            "00 €;vetrina_calda_con_carrello"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "26;bar;Macchina per crepes;378",
+        "null": [
+            "00 €;macchina_per_crepes"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "27;bar;Forno a microonde multifunzione 900W;190",
+        "null": [
+            "00 €;forno_a_microonde_multifunzione_900w"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "28;bar;Frullatore corpo e lame 0",
+        "null": [
+            "4kw;55",
+            "00 €;frullatore_corpo_e_lame_0",
+            "4kw"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "29;bar;Centrifuga per frutta e verdura;128",
+        "null": [
+            "00 €;centrifuga_per_frutta_e_verdura"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "30;bar;Macchina per popcorn;704",
+        "null": [
+            "00 €;macchina_per_popcorn"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "31;pizzeria;Banco pizza completo 3 porte;1.850",
+        "null": [
+            "00 €;banco_pizza_completo_3_porte"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "32;pizzeria;Banco pizza completo 2 porte;1.650",
+        "null": [
+            "00 €;banco_pizza_completo_2_porte"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "33;pizzeria;Forno per pizza a legna telaio di base;1.800",
+        "null": [
+            "00 €;forno_per_pizza_a_legna_telaio_di_base"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "34;pizzeria;Tagliaverdure tagliamozzarella in alluminio;639",
+        "null": [
+            "00 €;tagliaverdure_tagliamozzarella_in_alluminio"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "36;pizzeria;Forno pizza singolo PO9;1.778",
+        "null": [
+            "00 €;forno_pizza_singolo_po9"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "37;pizzeria;Forno pizza combo PO6;3.500",
+        "null": [
+            "00 €;forno_pizza_combo_po6"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "38;pizzeria;Forno pizza singolo PO6;1.421",
+        "null": [
+            "00 €;forno_pizza_singolo_po6"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "39;pizzeria;Cassetta per lievitazione pizza 60x40x10;10",
+        "null": [
+            "00 €;cassetta_per_lievitazione_pizza_60x40x10"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "40;pizzeria;Forno elettrico per pizza piano cottura in pietra refrattaria 4 pizze;681",
+        "null": [
+            "00 €;forno_elettrico_per_pizza_piano_cottura_in_pietra_refrattaria_4_pizze"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "41;pizzeria;Forno elettrico per pizza piano cottura in pietra refrattaria 2 pizze;450",
+        "null": [
+            "00 €;forno_elettrico_per_pizza_piano_cottura_in_pietra_refrattaria_2_pizze"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "42;pizzeria;Forno elettrico per pizza piano cottura in pietra refrattaria capacità 1 pizza;308",
+        "null": [
+            "00 €;forno_elettrico_per_pizza_piano_cottura_in_pietra_refrattaria_capacità_1_pizza"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "43;pizzeria;Saladette refrigerata CRP 93A;1.483",
+        "null": [
+            "00 €;saladette_refrigerata_crp_93a"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "44;pizzeria;Saladaette refrigerata CRP 90A;1.058",
+        "null": [
+            "00 €;saladaette_refrigerata_crp_90a"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "45;pizzeria;Tavolo per pizza refrigerato QZ 30;1.973",
+        "null": [
+            "00 €;tavolo_per_pizza_refrigerato_qz_30"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "46;pizzeria;Tavolo per pizza refrigerato QZ 26;1.018",
+        "null": [
+            "00 €;tavolo_per_pizza_refrigerato_qz_26"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "47;pizzeria;Tavolo per pizza refrigerato QZ 20;1.708",
+        "null": [
+            "00 €;tavolo_per_pizza_refrigerato_qz_20"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "48;pizzeria;Tavolo per pizza refrigerato QZ 16;1.807",
+        "null": [
+            "00 €;tavolo_per_pizza_refrigerato_qz_16"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "49;ristorante;Attrezzatura lavaggio big;2.999",
+        "null": [
+            "00 €;attrezzatura_lavaggio_big"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "50;ristorante;Attrezzatura lavaggio small;1.660",
+        "null": [
+            "00 €;attrezzatura_lavaggio_small"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "56;ristorante;Girarrosto elettrico 36 polli;3.200",
+        "null": [
+            "00 €;girarrosto_elettrico_36_polli"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "57;ristorante;Friggitrice a gas 2 vasche;1.800",
+        "null": [
+            "00 €;friggitrice_a_gas_2_vasche"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "58;ristorante;Friggitrice a gas 1 vasche;850",
+        "null": [
+            "00 €;friggitrice_a_gas_1_vasche"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "59;ristorante;Cuocipasta a gas 2 vasche;1.150",
+        "null": [
+            "00 €;cuocipasta_a_gas_2_vasche"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "60;ristorante;Frytop a gas liscio o rigato;1.200",
+        "null": [
+            "00 €;frytop_a_gas_liscio_o_rigato"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "61;pasticceria;Vetrina riscaldata da banco 120 cm;200",
+        "null": [
+            "00 €;vetrina_riscaldata_da_banco_120_cm"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "62;pasticceria;Vetrina riscaldata da banco 70 cm;550",
+        "null": [
+            "00 €;vetrina_riscaldata_da_banco_70_cm"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "63;pasticceria;Vetrina frigo pasticceria 439 lt;2.150",
+        "null": [
+            "00 €;vetrina_frigo_pasticceria_439_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "64;pasticceria;Vetrina frigo pasticceria 579 lt;2.850",
+        "null": [
+            "00 €;vetrina_frigo_pasticceria_579_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "65;pasticceria;Forno elettrico 6 teglie touch screen;5.200",
+        "null": [
+            "00 €;forno_elettrico_6_teglie_touch_screen"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "66;pasticceria;Forno elettrico 6 teglie lavaggio automatico;3.465",
+        "null": [
+            "00 €;forno_elettrico_6_teglie_lavaggio_automatico"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "67;pasticceria;Forno elettrico 10 teglie;3.600",
+        "null": [
+            "00 €;forno_elettrico_10_teglie"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "68;pasticceria;Forno elettrico 4 teglie;1.370",
+        "null": [
+            "00 €;forno_elettrico_4_teglie"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "69;pasticceria;Mini vetrina verticale 52 lt;299",
+        "null": [
+            "00 €;mini_vetrina_verticale_52_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "70;pasticceria;Vetrina per pasticceria VRP-804B;9.500",
+        "null": [
+            "00 €;vetrina_per_pasticceria_vrp-804b"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "71;pasticceria;Vetrina per pasticceria VRP-604B;6.800",
+        "null": [
+            "00 €;vetrina_per_pasticceria_vrp-604b"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "72;pasticceria;Vetrina per pasticceria VRP-404B;5.600",
+        "null": [
+            "00 €;vetrina_per_pasticceria_vrp-404b"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "73;pasticceria;Vetrina per pasticceria VRP-304B;5.250",
+        "null": [
+            "00 €;vetrina_per_pasticceria_vrp-304b"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "74;pasticceria;Friggitrice elettrica per pasticceria da banco 30 lt;946",
+        "null": [
+            "00 €;friggitrice_elettrica_per_pasticceria_da_banco_30_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "75;pasticceria;Friggitrice elettrica per pasticceria da banco 16 lt;658",
+        "null": [
+            "00 €;friggitrice_elettrica_per_pasticceria_da_banco_16_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "345;fatt;Friggitrice a 2 vasche gas 70 x 80 x 85 17+17 LT;3.500",
+        "null": [
+            "00 €;friggitrice_a_2_vasche_gas_70_x_80_x_85_17+17_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "346;fatt;Fry top gas liscio rigato 70 x 80 x85;3.300",
+        "null": [
+            "00 €;fry_top_gas_liscio_rigato_70_x_80_x85"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "347;fatt;Cassettiera neutra 3 cassetti 40 x 70 x 85  con alzatina;800",
+        "null": [
+            "00 €;cassettiera_neutra_3_cassetti_40_x_70_x_85_con_alzatina"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "348;fatt;Cuocipasta gas 80 x 70 x 85 incluso 3 cesti normali + due cesti inox;5.800",
+        "null": [
+            "00 €;cuocipasta_gas_80_x_70_x_85_incluso_3_cesti_normali_+_due_cesti_inox"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "349;fatt;Cucina gas 6 fuochi forno 120 x 70 x 85;5.400",
+        "null": [
+            "00 €;cucina_gas_6_fuochi_forno_120_x_70_x_85"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "350;fatt;Abbattitore temperatura 75 x 70 x 85 5 teglie;5.800",
+        "null": [
+            "00 €;abbattitore_temperatura_75_x_70_x_85_5_teglie"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "351;fatt;Tavolo neutro aperto con ripiano 40 x 70 x 85 a 5 teglie;300",
+        "null": [
+            "00 €;tavolo_neutro_aperto_con_ripiano_40_x_70_x_85_a_5_teglie"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "352;fatt;Tavolo inox per inserimento abbattitore 100 x 70 x 85;300",
+        "null": [
+            "00 €;tavolo_inox_per_inserimento_abbattitore_100_x_70_x_85"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "353;fatt;Forno elettrico a 5 teglie autopulente con sonde al cuore in dotazione;6.850",
+        "null": [
+            "00 €;forno_elettrico_a_5_teglie_autopulente_con_sonde_al_cuore_in_dotazione"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "354;fatt;Cappa sopraforno Alcapone a filtri interni;1.980",
+        "null": [
+            "00 €;cappa_sopraforno_alcapone_a_filtri_interni"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "355;fatt;Fontana a leva normale;200",
+        "null": [
+            "00 €;fontana_a_leva_normale"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "356;fatt;Lavello a 2 vasche con gocciolatoio aperto e ripiano;820",
+        "null": [
+            "00 €;lavello_a_2_vasche_con_gocciolatoio_aperto_e_ripiano"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "357;fatt;Base frigo a 3 porte completa di motore a bordo e alzatina;1.600",
+        "null": [
+            "00 €;base_frigo_a_3_porte_completa_di_motore_a_bordo_e_alzatina"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "358;fatt;Base per congelatore a 3 porte con alzatina in dotazione;1.900",
+        "null": [
+            "00 €;base_per_congelatore_a_3_porte_con_alzatina_in_dotazione"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "359;fatt;Tavolo inox aperto con ripiano ed alzatina;400",
+        "null": [
+            "00 €;tavolo_inox_aperto_con_ripiano_ed_alzatina"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "360;fatt;Lampade calde colore luce rossa;200",
+        "null": [
+            "00 €;lampade_calde_colore_luce_rossa"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "361;fatt;Microonde nero 31 LT;350",
+        "null": [
+            "00 €;microonde_nero_31_lt"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "362;fatt;Cappottina P100 70 x 75 x 180;4.600",
+        "null": [
+            "00 €;cappottina_p100_70_x_75_x_180"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "363;fatt;Lavello a doppia vasca completo di gocciolatoio a sbalzo aperto 160 x 70 x 85;1.150",
+        "null": [
+            "00 €;lavello_a_doppia_vasca_completo_di_gocciolatoio_a_sbalzo_aperto_160_x_70_x_85"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "364;fatt;Tavolo inox con foro sbarazzo aperto 70 x 70 x 85;600",
+        "null": [
+            "00 €;tavolo_inox_con_foro_sbarazzo_aperto_70_x_70_x_85"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "365;fatt;Doccetta alta SAMMIC ;400",
+        "null": [
+            "00 €;doccetta_alta_sammic"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "366;fatt;Tavolo inox aperto con ripiano 150 x 70 x 85 no alzatina;400",
+        "null": [
+            "00 €;tavolo_inox_aperto_con_ripiano_150_x_70_x_85_no_alzatina"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "367;fatt;Armadio frigo a 2 porte 1.400 lt 80 x 140 x 210;1.950",
+        "null": [
+            "00 €;armadio_frigo_a_2_porte_1_400_lt_80_x_140_x_210"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "368;fatt;Vetrina bibita 1 porta colore nero 60 x 60 x 185;1.100",
+        "null": [
+            "00 €;vetrina_bibita_1_porta_colore_nero_60_x_60_x_185"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": ";;;;"
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": ";;;;"
+    }
+]

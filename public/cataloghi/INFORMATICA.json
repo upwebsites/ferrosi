@@ -1,0 +1,644 @@
+[
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "76;ACER DESKTOP Aspire XC-1780",
+        "null": [
+            " Intel®",
+            " Core I5 13400",
+            " 1.8 GHz",
+            " UHD Graphics",
+            " RAM 16 GB",
+            " 512 GB SSD;629",
+            "00 €;acer_desktop_aspire_xc_1780_intel®_core_i5_13400_1_8_ghz_uhd_graphics_ram_16_gb_512_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "77;ACER DESKTOP GAMING Nitro N50-656",
+        "null": [
+            " Intel®",
+            " Core I5 14400F",
+            " 2.5 GHz",
+            " GeForce RTX™ 4060",
+            " RAM 16 GB",
+            " 512 GB SSD;999",
+            "00 €;acer_desktop_gaming_nitro_n50_656_intel®_core_i5_14400f_2_5_ghz_geforce_rtx™_4060_ram_16_gb_512_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "78;ACER DESKTOP GAMING Predator Orion 3000 Po3",
+        "null": [
+            " Intel®",
+            " Core I7 14700F",
+            " 2.1 GHz",
+            " GeForce RTX™ 4060",
+            " RAM 16 GB",
+            " 1024 GB SSD;1.649",
+            "00 €;acer_desktop_gaming_predator_orion_3000_po3_intel®_core_i7_14700f_2_1_ghz_geforce_rtx™_4060_ram_16_gb_1024_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "79;ACER DESKTOP GAMING DG.E3RET.006 Predator POX-650 Desktop",
+        "null": [
+            " Intel®",
+            " Intel i7-13700",
+            " GeForce RTX™ 4070 Ti",
+            " RAM 16 GB",
+            " 1 TB SSD;1.957",
+            "00 €;acer_desktop_gaming_dg_e3ret_006_predator_pox_650_desktop_intel®_intel_i7_13700_geforce_rtx™_4070_ti_ram_16_gb_1_tb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "80;ACER DESKTOP GAMING DG.E3UET.006 NITRO 50 N50-656 Tower",
+        "null": [
+            " Intel®",
+            " Intel i5-14400F",
+            " 2.5 GHz",
+            " GeForce RTX™ 4060",
+            " RAM 16 GB",
+            " 512 GB SSD;1.325",
+            "00 €;acer_desktop_gaming_dg_e3uet_006_nitro_50_n50_656_tower_intel®_intel_i5_14400f_2_5_ghz_geforce_rtx™_4060_ram_16_gb_512_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "81;ACER DESKTOP Veriton X VX2720G",
+        "null": [
+            " Intel®",
+            " Intel i5-14400",
+            " UHD 730",
+            " RAM 16 GB",
+            " 512 GB SSD;704",
+            "00 €;acer_desktop_veriton_x_vx2720g_intel®_intel_i5_14400_uhd_730_ram_16_gb_512_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "82;ACER DESKTOP DT.R1NET.008 Veriton VX2720G",
+        "null": [
+            " Intel®",
+            " Intel i3-12100",
+            " UHD 730",
+            " RAM 8 GB",
+            " 256 GB SSD;375",
+            "00 €;acer_desktop_dt_r1net_008_veriton_vx2720g_intel®_intel_i3_12100_uhd_730_ram_8_gb_256_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "84;ACER DESKTOP GAMING Predator Orion X POX-650 (Senza Sistema Operativo)",
+        "null": [
+            " Intel Core i7-13700",
+            " GeForce RTX™ 4080",
+            " RAM 16 GB",
+            " 1 TB SSD;2.313",
+            "00 €;acer_desktop_gaming_predator_orion_x_pox_650_senza_sistema_operativo_intel_core_i7_13700_geforce_rtx™_4080_ram_16_gb_1_tb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "85;ACER DESKTOP GAMING DG.E3UEG.00A NITRO 50 N50-656 Desktop",
+        "null": [
+            " Intel®",
+            " Intel i7-14700F",
+            " GeForce RTX™ 4060",
+            " RAM 16 GB",
+            " 512 GB SSD SSD;1.474",
+            "00 €;acer_desktop_gaming_dg_e3ueg_00a_nitro_50_n50_656_desktop_intel®_intel_i7_14700f_geforce_rtx™_4060_ram_16_gb_512_gb_ssd_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "86;ACER MINI DESKTOP DT.R0EEG.002 Veriton N2590G Mini PC",
+        "null": [
+            " Intel®",
+            " Intel i3-1315U",
+            " UHD Graphics",
+            " RAM 8 GB",
+            " 256 GB SSD SSD;576",
+            "00 €;acer_mini_desktop_dt_r0eeg_002_veriton_n2590g_mini_pc_intel®_intel_i3_1315u_uhd_graphics_ram_8_gb_256_gb_ssd_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "87;ACER DESKTOP GAMING DG.E2DET.004 NITRO 50 N50-620 Desktop",
+        "null": [
+            " Intel i7-11700F",
+            " GeForce RTX™ 3060",
+            " RAM 16 GB",
+            " 512 GB SSD;1.521",
+            "00 €;acer_desktop_gaming_dg_e2det_004_nitro_50_n50_620_desktop_intel_i7_11700f_geforce_rtx™_3060_ram_16_gb_512_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "88;APPLE iMac 24''",
+        "null": [
+            " Chip M4",
+            " 10 CPU 10 GPU",
+            " 16GB",
+            " 256GB Blu;1.599",
+            "00 €;apple_imac_24_chip_m4_10_cpu_10_gpu_16gb_256gb_blu"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "89;APPLE iMac 24''",
+        "null": [
+            " Chip M4",
+            " 10 CPU 10 GPU",
+            " 24GB",
+            " 512GB Argento;2.199",
+            "00 €;apple_imac_24_chip_m4_10_cpu_10_gpu_24gb_512gb_argento"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "90;APPLE iMac 24''",
+        "null": [
+            " Chip M4",
+            " 10 CPU 10 GPU",
+            " 16GB",
+            " 512GB Verde;1.999",
+            "00 €;apple_imac_24_chip_m4_10_cpu_10_gpu_16gb_512gb_verde"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "91;\"APPLE MNEA2D/A IMAC 27\"\" 5K 3",
+        "null": [
+            "5GHZ/I5/8GB AIO",
+            " 27 \"\"",
+            " Intel® Intel Core i5 quad-core da 3",
+            "5 GHz (Turbo Boost fino a 4",
+            "1 GHz)",
+            " 8 GB",
+            " 1 TB Fusion Drive",
+            " Grigio\";744",
+            "00 €;apple_mnea2d_a_imac_27_5k_3_5ghz_i5_8gb_aio_27_intel®_intel_core_i5_quad_core_da_3_5_ghz_turbo_boost_fino_a_4_1_ghz_8_gb_1_tb_fusion_drive_grigio"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "92;\"APPLE iMac 27\"\" 5K 2019 AIO",
+        "null": [
+            " 27 \"\"",
+            " Intel® Core™ i5",
+            " 16 GB",
+            " 1 TB SSD",
+            " Argento\";894",
+            "00 €;apple_imac_27_5k_2019_aio_27_intel®_core™_i5_16_gb_1_tb_ssd_argento"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "93;\"APPLE iMac Pro AIO",
+        "null": [
+            " 27 \"\"",
+            " Intel® Intel",
+            " 32 GB",
+            " 1 TB SSD",
+            " SSD",
+            " Grigio\";2.104",
+            "00 €;apple_imac_pro_aio_27_intel®_intel_32_gb_1_tb_ssd_ssd_grigio"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "94;\"APPLE iMac 24\"\" 2021 AIO",
+        "null": [
+            " 24 \"\"",
+            " Apple M-Series",
+            " 16 GB",
+            " 2 TB SSD",
+            " Viola\";1.334",
+            "00 €;apple_imac_24_2021_aio_24_apple_m_series_16_gb_2_tb_ssd_viola"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "95;\"APPLE iMac AIO 8/1TB",
+        "null": [
+            " 21",
+            "5 \"\"",
+            " Intel® Intel i5-8500B",
+            " 8 GB",
+            " 1 TB Fusion Drive",
+            " Argento\";704",
+            "00 €;apple_imac_aio_21_5_intel®_intel_i5_8500b_8_gb_1_tb_fusion_drive_argento"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "96;\"APPLE iMac AIO 8/256",
+        "null": [
+            " 21",
+            "5 \"\"",
+            " Intel® Intel",
+            " 8 GB",
+            " 256 GB SSD",
+            " Argento\";564",
+            "00 €;apple_imac_aio_21_5_intel®_intel_8_gb_256_gb_ssd_argento"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "97;\"APPLE iMac 27\"\" 5K 2020 AIO",
+        "null": [
+            " 27 \"\"",
+            " Intel® Core™ i5",
+            " 16 GB",
+            " 512 GB SSD",
+            " Argento\";1.184",
+            "00 €;apple_imac_27_5k_2020_aio_27_intel®_core™_i5_16_gb_512_gb_ssd_argento"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "98;APPLE Mac Mini 16/256",
+        "null": [
+            " Chip M4",
+            " 10 CPU 10 GPU",
+            " 16GB",
+            " 256GB;599",
+            "00 €;apple_mac_mini_chip_m4_10_cpu_10_gpu_16gb_256gb"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "99;APPLE Mac Mini 16/512",
+        "null": [
+            " Chip M4",
+            " 10 CPU 10 GPU",
+            " 16GB",
+            " 512GB;899",
+            "00 €;apple_mac_mini_chip_m4_10_cpu_10_gpu_16gb_512gb"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "100;APPLE Mac Mini M2/512",
+        "null": [
+            " Chip M2",
+            " 8 CPU 10 GPU",
+            " 512GB;599",
+            "00 €;apple_mac_mini_chip_m2_8_cpu_10_gpu_512gb"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "101;APPLE Mac Mini 24/512",
+        "null": [
+            " Chip M4",
+            " 10 CPU 10 GPU",
+            " 24GB",
+            " 512GB;1.199",
+            "00 €;apple_mac_mini_chip_m4_10_cpu_10_gpu_24gb_512gb"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "102;APPLE MINI DESKTOP MXNG2D/A-324176 Mac mini Mini PC",
+        "null": [
+            " Intel®",
+            " Intel",
+            " 3 GHz",
+            " UHD 630",
+            " RAM 16 GB",
+            " 512 GB SSD;334",
+            "00 €;apple_mini_desktop_mxng2d_a_324176_mac_mini_mini_pc_intel®_intel_3_ghz_uhd_630_ram_16_gb_512_gb_ssd"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "103;\"PHILIPS 27E1N1100A/00 MONITOR",
+        "null": [
+            " 27 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";99",
+            "00 €;philips_27e1n1100a_00_monitor_27_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "104;\"PHILIPS 24E1N1100A/00 MONITOR",
+        "null": [
+            " 23",
+            "8 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";79",
+            "00 €;philips_24e1n1100a_00_monitor_23_8_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "105;\"LG 27US550 MONITOR",
+        "null": [
+            " 27 \"\"",
+            " UHD 4K",
+            " 3840 x 2160 Pixel\";229",
+            "00 €;lg_27us550_monitor_27_uhd_4k_3840_x_2160_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "106;\"MSI MAG 276CF E20 MONITOR",
+        "null": [
+            " 27 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";169",
+            "00 €;msi_mag_276cf_e20_monitor_27_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "107;\"MSI MAG 345CQR MONITOR",
+        "null": [
+            " 34 \"\"",
+            " UWQHD",
+            " 3440 x 1440 Pixel\";299",
+            "00 €;msi_mag_345cqr_monitor_34_uwqhd_3440_x_1440_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "108;\"SAMSUNG Serie S30GD MONITOR",
+        "null": [
+            " 24 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";89",
+            "00 €;samsung_serie_s30gd_monitor_24_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "109;\"SAMSUNG Odyssey G5 - G55C MONITOR",
+        "null": [
+            " 32 \"\"",
+            " QHD",
+            " 2560 x 1440 Pixel\";219",
+            "00 €;samsung_odyssey_g5_g55c_monitor_32_qhd_2560_x_1440_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "110;\"SAMSUNG Odyssey G5 - G55T MONITOR",
+        "null": [
+            " 34 \"\"",
+            " WQHD",
+            " 3440 x 1440 Pixel\";449",
+            "00 €;samsung_odyssey_g5_g55t_monitor_34_wqhd_3440_x_1440_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "111;\"SAMSUNG Odyssey G3 - G30D MONITOR",
+        "null": [
+            " 24 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";129",
+            "00 €;samsung_odyssey_g3_g30d_monitor_24_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "112;\"LG 27GS60F MONITOR",
+        "null": [
+            " 27 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";144",
+            "00 €;lg_27gs60f_monitor_27_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "113;\"SAMSUNG Monitor Curvo CR50 32'' MONITOR",
+        "null": [
+            " 32 \"\"",
+            " Full-HD",
+            " 1920 x 1080 Pixel\";179",
+            "00 €;samsung_monitor_curvo_cr50_32_monitor_32_full_hd_1920_x_1080_pixel"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "114;APPLE Monitor Studio Display Retina 5K",
+        "null": [
+            " 27''",
+            " vetro standard con sostegno a inclinazione regolabile;1.599",
+            "00 €;apple_monitor_studio_display_retina_5k_27_vetro_standard_con_sostegno_a_inclinazione_regolabile"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "115;Tastiera + Mouse LOGITECH WIRELESS COMBO MK270;27",
+        "null": [
+            "00 €;tastiera_+_mouse_logitech_wireless_combo_mk270"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "116;TASTIERA TRUST PRIMO KEYBOARD IT;8",
+        "null": [
+            "00 €;tastiera_trust_primo_keyboard_it"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "117;Tastiera + Mouse HP COMBO TASTIERA MOUSE 230;23",
+        "null": [
+            "00 €;tastiera_+_mouse_hp_combo_tastiera_mouse_230"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "118;Tastiera + Mouse LOGITECH WIRELESS DESKTOP MK220;22",
+        "null": [
+            "00 €;tastiera_+_mouse_logitech_wireless_desktop_mk220"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "119;Tastiera + Mouse LOGITECH MK470 SLIM WIRELESS COMBO;39",
+        "null": [
+            "00 €;tastiera_+_mouse_logitech_mk470_slim_wireless_combo"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "120;TASTIERA LOGITECH MX Keys S;89",
+        "null": [
+            "00 €;tastiera_logitech_mx_keys_s"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "121;Tastiera + Mouse LOGITECH MK 295 Graphite;31",
+        "null": [
+            "00 €;tastiera_+_mouse_logitech_mk_295_graphite"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "122;TASTIERA TRUST GXT833 THADO TKL KB IT;24",
+        "null": [
+            "00 €;tastiera_trust_gxt833_thado_tkl_kb_it"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "123;TASTIERA HP TASTIERA WIRELESS 230;20",
+        "null": [
+            "00 €;tastiera_hp_tastiera_wireless_230"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "124;Tastiera + Mouse LOGITECH SLIM COMBO MK 950;89",
+        "null": [
+            "00 €;tastiera_+_mouse_logitech_slim_combo_mk_950"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "125;TASTIERA GAMING LOGITECH GPRO KEYBOARD ITA;89",
+        "null": [
+            "00 €;tastiera_gaming_logitech_gpro_keyboard_ita"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "126;TASTIERA TRUST GXT833W THADO TKL KB;19",
+        "null": [
+            "00 €;tastiera_trust_gxt833w_thado_tkl_kb"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "127;MOUSE GAMING WIRELESS STEELSERIES Aerox 9 Wireless;140",
+        "null": [
+            "00 €;mouse_gaming_wireless_steelseries_aerox_9_wireless"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "128;MOUSE GAMING WIRELESS STEELSERIES Aerox 3 Wireless Onyx;79",
+        "null": [
+            "00 €;mouse_gaming_wireless_steelseries_aerox_3_wireless_onyx"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "129;MOUSE WIRELESS HP MOUSE 240 BLUETOOTH;12",
+        "null": [
+            "00 €;mouse_wireless_hp_mouse_240_bluetooth"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "130;MOUSE WIRELESS TRUST YVI+ WRLS MOUSE ECO;5",
+        "null": [
+            "00 €;mouse_wireless_trust_yvi+_wrls_mouse_eco"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "131;MOUSE GAMING WIRELESS STEELSERIES Aerox 5 Wireless;134",
+        "null": [
+            "00 €;mouse_gaming_wireless_steelseries_aerox_5_wireless"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "132;MOUSE HP WIRED MOUSE 100;19",
+        "null": [
+            "00 €;mouse_hp_wired_mouse_100"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "133;MOUSE LOGITECH MX MASTER 3S GRAFITE;79",
+        "null": [
+            "00 €;mouse_logitech_mx_master_3s_grafite"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "134;MOUSE GAMING WIRELESS LOGITECH G PRO X SUPERLIGHT 2;109",
+        "null": [
+            "00 €;mouse_gaming_wireless_logitech_g_pro_x_superlight_2"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "135;MOUSE WIRELESS TRUST BAYO II ERGO WRL MOUSE;24",
+        "null": [
+            "00 €;mouse_wireless_trust_bayo_ii_ergo_wrl_mouse"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "136;MOUSE WIRELESS TRUST YVI+ WRLS MOUSE ECO;6",
+        "null": [
+            "00 €;mouse_wireless_trust_yvi+_wrls_mouse_eco"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "137;MOUSE WIRELESS HP 480 Comfort Mouse;26",
+        "null": [
+            "00 €;mouse_wireless_hp_480_comfort_mouse"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "138;MOUSE GAMING TRUST GXT109W FELOX GAM. MOUSE;9",
+        "null": [
+            "00 €;mouse_gaming_trust_gxt109w_felox_gam_mouse"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "139;MOUSE WIRELESS LOGITECH M750;34",
+        "null": [
+            "00 €;mouse_wireless_logitech_m750"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "140;MOUSE WIRELESS LOGITECH LIFT VERTICAL;54",
+        "null": [
+            "00 €;mouse_wireless_logitech_lift_vertical"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "141;STAMPANTE INKJET CANON PIXMA TS3750i;39",
+        "null": [
+            "00 €;stampante_inkjet_canon_pixma_ts3750i"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "142;STAMPANTE INKJET CANON PIXMA TR4755i;48",
+        "null": [
+            "00 €;stampante_inkjet_canon_pixma_tr4755i"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "143;STAMPANTE INKJET EPSON XP2205;54",
+        "null": [
+            "00 €;stampante_inkjet_epson_xp2205"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "144;STAMPANTE INKJET EPSON ET-2865;169",
+        "null": [
+            "00 €;stampante_inkjet_epson_et_2865"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "145;STAMPANTE LASER HP LASERJET M234DW;138",
+        "null": [
+            "00 €;stampante_laser_hp_laserjet_m234dw"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "146;STAMPANTE LASER BROTHER DCP-1612WMW;136",
+        "null": [
+            "00 €;stampante_laser_brother_dcp_1612wmw"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "147;STAMPANTE INKJET EPSON ET-2876;179",
+        "null": [
+            "00 €;stampante_inkjet_epson_et_2876"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "148;STAMPANTE LASER HP LASERJET M140W;119",
+        "null": [
+            "00 €;stampante_laser_hp_laserjet_m140w"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "149;STAMPANTE LASER BROTHER MFC-L2827DW;199",
+        "null": [
+            "00 €;stampante_laser_brother_mfc_l2827dw"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "150;HP STAMPANTE DESKJET 2820E CON HP+ ed Instant Ink",
+        "null": [
+            " Inkjet;50",
+            "00 €;hp_stampante_deskjet_2820e_con_hp+_ed_instant_ink_inkjet"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "151;STAMPANTE INKJET EPSON EcoTank ET-2856;239",
+        "null": [
+            "00 €;stampante_inkjet_epson_ecotank_et_2856"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "152;STAMPANTE INKJET EPSON EcoTank ET-2856;79",
+        "null": [
+            "00 €;stampante_inkjet_epson_ecotank_et_2856"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "153;STAMPANTE INKJET EPSON ECOTANK ET-8550;829",
+        "null": [
+            "00 €;stampante_inkjet_epson_ecotank_et_8550"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "154;STAMPANTE INKJET EPSON EcoTank ET-8500;621",
+        "null": [
+            "00 €;stampante_inkjet_epson_ecotank_et_8500"
+        ]
+    },
+    {
+        "ID;PRODOTTO;PREZZO;IMMAGINE": "155;STAMPANTE INKJET EPSON ECOTANK ET-15000;590",
+        "null": [
+            "00 €;stampante_inkjet_epson_ecotank_et_15000"
+        ]
+    }
+]

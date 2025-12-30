@@ -1,0 +1,356 @@
+[
+    {
+        "ID;settore;prodotto;prezzo;immagine": "156;direzionale;Composizione Rhea Interior One;2.570",
+        "null": [
+            "00 €;composizione_rhea_interior_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "157;direzionale;Composizione Stratos Plus Design One;4.900",
+        "null": [
+            "00 €;composizione_stratos_plus_design_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "158;direzionale;Composizione Stratos Plus Design Two;1.490",
+        "null": [
+            "00 €;composizione_stratos_plus_design_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "159;direzionale;Composizione Forma Luxury;3.546",
+        "null": [
+            "00 €;composizione_forma_luxury"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "160;direzionale;Composizione forma Winery;2.389",
+        "null": [
+            "00 €;composizione_forma_winery"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "161;direzionale;Composizione forma Citylife;2.789",
+        "null": [
+            "00 €;composizione_forma_citylife"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "162;direzionale;Composizione Rhea Interior Three;958",
+        "null": [
+            "00 €;composizione_rhea_interior_three"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "163;direzionale;Composizione Rhea Interior Two;1.275",
+        "null": [
+            "00 €;composizione_rhea_interior_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "164;direzionale;Composizione Stratos Plus Design Three;4.534",
+        "null": [
+            "00 €;composizione_stratos_plus_design_three"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "165;direzionale;Composizione Cubo Professional two;2.068",
+        "null": [
+            "00 €;composizione_cubo_professional_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "166;direzionale;Composizione Rhea Architecture;1.874",
+        "null": [
+            "00 €;composizione_rhea_architecture"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "167;direzionale;Composizione Forma Elegant;1.612",
+        "null": [
+            "00 €;composizione_forma_elegant"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "168;direzionale;Composizione Piano Elements;2.543",
+        "null": [
+            "00 €;composizione_piano_elements"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "169;direzionale;Composizone Stratos Executive;1.868",
+        "null": [
+            "00 €;composizone_stratos_executive"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "170;direzionale;Composizione Cubo 19;2.005",
+        "null": [
+            "00 €;composizione_cubo_19"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "171;direzionale;Composizione Stratos Army;3.352",
+        "null": [
+            "00 €;composizione_stratos_army"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "172;direzionale;Composizione Stratos Doctor;1.605",
+        "null": [
+            "00 €;composizione_stratos_doctor"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "173;direzionale;Composizone Rhea Interior Five;3.487",
+        "null": [
+            "00 €;composizone_rhea_interior_five"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "174;direzionale;Composizione Rhea Interior Four;1.925",
+        "null": [
+            "00 €;composizione_rhea_interior_four"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "175;direzionale;Composizione Cubo Professional One;1.452",
+        "null": [
+            "00 €;composizione_cubo_professional_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "176;direzionale;Composizione Rhea Professional;2.124",
+        "null": [
+            "00 €;composizione_rhea_professional"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "177;operative;Composizione Stratos Director;1.522",
+        "null": [
+            "00 €;composizione_stratos_director"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "178;operative;Composizione Stratos Living;846",
+        "null": [
+            "00 €;composizione_stratos_living"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "179;operative;Composizione Stratos Team;3.658",
+        "null": [
+            "00 €;composizione_stratos_team"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "180;operative;Composizione Derby Director;2.034",
+        "null": [
+            "00 €;composizione_derby_director"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "181;operative;Composizione Derby Utility;1.388",
+        "null": [
+            "00 €;composizione_derby_utility"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "182;operative;Composizione Derby Admin;2.316",
+        "null": [
+            "00 €;composizione_derby_admin"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "183;operative;Composizione Derby Office;1.099",
+        "null": [
+            "00 €;composizione_derby_office"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "184;operative;Composizione Derby Basic;507",
+        "null": [
+            "00 €;composizione_derby_basic"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "185;operative;Composizione Call Center;1.073",
+        "null": [
+            "00 €;composizione_call_center"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "186;operative;Composizione Derby Eco;1.272",
+        "null": [
+            "00 €;composizione_derby_eco"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "187;operative;Composizione Stratos Accounting;2.095",
+        "null": [
+            "00 €;composizione_stratos_accounting"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "188;operative;Composizione Stratos Professional;1.006",
+        "null": [
+            "00 €;composizione_stratos_professional"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "189;riunione;Composizione Rhea Interior Easy;1.285",
+        "null": [
+            "00 €;composizione_rhea_interior_easy"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "190;riunione;Composizione Rhea Break Two;1.707",
+        "null": [
+            "00 €;composizione_rhea_break_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "191;riunione;Composizione Rhea Break One;776",
+        "null": [
+            "00 €;composizione_rhea_break_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "192;riunione;Composizione Move Riunione Easy;1.734",
+        "null": [
+            "00 €;composizione_move_riunione_easy"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "193;riunione;Composizione Stratos Plus Break One;986",
+        "null": [
+            "00 €;composizione_stratos_plus_break_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "194;riunione;Composizione Stratos Plus Break Two;2.681",
+        "null": [
+            "00 €;composizione_stratos_plus_break_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "195;riunione;Composizione Stratos Riunione;2.797",
+        "null": [
+            "00 €;composizione_stratos_riunione"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "196;riunione;Composizione Derby Riunione;1.837",
+        "null": [
+            "00 €;composizione_derby_riunione"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "197;riunione;Composizione Derby Riunione Two;1.820",
+        "null": [
+            "00 €;composizione_derby_riunione_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "198;riunione;Composizione Move Training;3.557",
+        "null": [
+            "00 €;composizione_move_training"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "199;riunione;Composizione Derby Riunione One;1.530",
+        "null": [
+            "00 €;composizione_derby_riunione_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "200;reception;Composizione Front office Grand Hotel;2.295",
+        "null": [
+            "00 €;composizione_front_office_grand_hotel"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "201;reception;Composizione Front Office HORECA;2.260",
+        "null": [
+            "00 €;composizione_front_office_horeca"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "202;reception;Composizione Front Office Architecture;1.433",
+        "null": [
+            "00 €;composizione_front_office_architecture"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "203;reception;Composizione Derby Reception;1.484",
+        "null": [
+            "00 €;composizione_derby_reception"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "204;reception;Composizione Stratos Reception;1.367",
+        "null": [
+            "00 €;composizione_stratos_reception"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "205;reception;Composizione Stratos Reception Two;2.712",
+        "null": [
+            "00 €;composizione_stratos_reception_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "206;reception;Composizione Stratos Reception Three;2.095",
+        "null": [
+            "00 €;composizione_stratos_reception_three"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "207;reception;Composizione Front Office Studio;1.835",
+        "null": [
+            "00 €;composizione_front_office_studio"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "208;homeoffice;Composizione Home One;696",
+        "null": [
+            "00 €;composizione_home_one"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "209;homeoffice;Composizione Home Two;1.001",
+        "null": [
+            "00 €;composizione_home_two"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "210;homeoffice;Composizione Home Three;538",
+        "null": [
+            "00 €;composizione_home_three"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "211;homeoffice;Composizione Home Four;683",
+        "null": [
+            "00 €;composizione_home_four"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "212;homeoffice;Composizione Home Five;830",
+        "null": [
+            "00 €;composizione_home_five"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "213;homeoffice;Composizione Home Six;1.057",
+        "null": [
+            "00 €;composizione_home_six"
+        ]
+    },
+    {
+        "ID;settore;prodotto;prezzo;immagine": "214;homeoffice;Composizione Home Seven;934",
+        "null": [
+            "00 €;composizione_home_seven"
+        ]
+    }
+]
