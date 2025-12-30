@@ -1301,7 +1301,7 @@ const App = () => {
   const [page, setPage] = useState<'home' | 'ecommerce' | 'ecommerce-ufficio'>('home');
 
   // Maintenance Mode Toggle - Set to true to enable
-  const isMaintenanceMode = true;
+  const isMaintenanceMode = false;
 
   if (isMaintenanceMode) {
     return <MaintenancePage />;
