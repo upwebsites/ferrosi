@@ -29,8 +29,8 @@ const Header = ({ onEcommerce }: { onEcommerce?: () => void }) => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <div className={`text-2xl md:text-3xl tracking-tighter transition-all duration-300 ${scrolled ? 'scale-90' : 'scale-100'}`}>
-              <span className="font-display font-black text-dark-gray">Ditta</span>
-              <span className="font-sans font-medium text-primary ml-0.5">Ferrosi</span>
+              <span className="font-sans font-medium text-dark-gray">Ditta</span>
+              <span className="font-display font-extrabold text-primary ml-0.5">Ferrosi</span>
             </div>
           </div>
 
@@ -553,8 +553,8 @@ const Footer = () => {
       <div className="container mx-auto px-6 text-center">
         <div className="mb-6">
           <div className="text-3xl tracking-tighter inline-block">
-            <span className="font-display font-black text-dark-gray">Ditta</span>
-            <span className="font-sans font-medium text-primary ml-0.5">Ferrosi</span>
+            <span className="font-sans font-medium text-dark-gray">Ditta</span>
+            <span className="font-display font-extrabold text-primary ml-0.5">Ferrosi</span>
           </div>
         </div>
         <p className="text-gray-400 text-sm mb-4">&copy; {new Date().getFullYear()} Ditta Ferrosi. Tutti i diritti riservati.</p>
@@ -726,9 +726,9 @@ const CategorySidebar = ({
     <div className="hidden md:flex flex-col sticky top-0 h-screen p-12 justify-between w-1/3 border-r border-gray-100 bg-white z-20">
       <div>
         <div className="mb-12">
-          <h2 className="font-display font-black text-4xl text-dark-gray tracking-tighter">
-            Ditta
-            <span className="text-primary ml-1">Ferrosi</span>
+          <h2 className="font-display tracking-tighter">
+            <span className="font-sans font-medium text-dark-gray text-4xl">Ditta</span>
+            <span className="font-display font-extrabold text-primary ml-1 text-4xl">Ferrosi</span>
           </h2>
           <p className="text-gray-400 text-sm mt-2 font-medium tracking-widest uppercase">Select Collection</p>
         </div>
@@ -789,7 +789,9 @@ const ProductCardEnhanced = ({
       <div className="p-6 flex-1 flex flex-col justify-end">
         <div className="flex justify-between items-end gap-4">
           <div className="flex-1">
-            <p className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-1">Ditta Ferrosi</p>
+            <div className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.2em] mb-1">
+              <span className="font-sans">Ditta</span> <span className="font-display text-primary/70">Ferrosi</span>
+            </div>
             <h3 className="font-sans font-bold text-lg text-dark-gray leading-tight group-hover:text-primary transition-colors line-clamp-2">
               {product.nome}
             </h3>
@@ -940,8 +942,11 @@ const EcommercePage = ({ onBack }: { onBack: () => void }) => {
     <div className="min-h-screen bg-cream font-sans flex flex-col md:flex-row">
 
       {/* Mobile Header */}
-      <div className="md:hidden fixed top-0 w-full z-40 bg-white/90 backdrop-blur-md p-4 border-b border-gray-100 flex justify-between items-center">
-        <div className="text-xl font-display font-black text-dark-gray">Ditta<span className="text-primary">Ferrosi</span></div>
+      <div className="md:hidden fixed top-0 w-full z-40 bg-white/90 backdrop-blur-md p-4 border-b border-gray-100 flex justify-between items-center text-xl tracking-tighter">
+        <div>
+          <span className="font-sans font-medium text-dark-gray">Ditta</span>
+          <span className="font-display font-extrabold text-primary">Ferrosi</span>
+        </div>
         <button onClick={onBack} className="text-sm font-bold text-gray-500">ESC</button>
       </div>
 
@@ -1184,8 +1189,8 @@ const MaintenancePage = () => {
         <div className="mb-12 animate-float">
           <div className="flex items-center space-x-4 mb-4 justify-center">
             <div className="text-5xl md:text-7xl tracking-tighter">
-              <span className="font-display font-black text-white">Ditta</span>
-              <span className="font-sans font-medium text-primary ml-1">Ferrosi</span>
+              <span className="font-sans font-medium text-white">Ditta</span>
+              <span className="font-display font-extrabold text-primary ml-1">Ferrosi</span>
             </div>
           </div>
           <div className="h-1 w-24 bg-primary mx-auto rounded-full animate-glow" />
